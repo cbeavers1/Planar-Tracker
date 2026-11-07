@@ -1,0 +1,3 @@
+/mnt/c/Users/kingc/VSProjects/Assignment_5_MTRE6100/src/build/CMakeFiles/assignment_5.exe.dir
+/mnt/c/Users/kingc/VSProjects/Assignment_5_MTRE6100/src/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kingc/VSProjects/Assignment_5_MTRE6100/src/build/CMakeFiles/rebuild_cache.dir
